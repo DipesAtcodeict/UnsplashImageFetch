@@ -1,0 +1,25 @@
+.images {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.image-container {
+    margin-top: 1rem;
+    border: 3px solid rgb(88, 33, 33);
+    border-radius: 1rem;
+    background-color: rgb(75, 59, 59);
+    text-align: center;
+}
+
+.description {
+    width: 25rem;
+    flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize;
+    color: rgb(173, 144, 64);
+    font-weight: bold;
+    text-align: center;
+    margin-left: 2rem;
+}
